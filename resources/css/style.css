@@ -1,0 +1,44 @@
+html, body {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3.125rem;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 1.313rem;
+}
+
+h3, .download-link {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 1rem;
+}
+
+#logo {
+    text-align: right;
+    color: gray;
+    padding: 0 1rem;
+}
+
+#phone-icon {
+    margin-top: 2rem;
+}
+
+#camping-photo {
+    margin-top: 1rem;
+}
